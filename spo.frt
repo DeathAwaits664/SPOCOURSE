@@ -32,3 +32,15 @@ dup 3 * inc else dup 2 / then
 else 1 then
 dup 1 = until
 r> ;
+
+
+m" ravin"
+string-hash
+.S
+17019
+3
+%
+.S
+0
+
+
